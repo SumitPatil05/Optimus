@@ -1,4 +1,4 @@
-# Ads Experimentation Analytics Platform
+# Optimus: Ads Experimentation Analytics Platform
 
 End-to-end analytics project that simulates how a performance marketing team (Amazon Ads / e-commerce) evaluates campaign optimizations.
 
